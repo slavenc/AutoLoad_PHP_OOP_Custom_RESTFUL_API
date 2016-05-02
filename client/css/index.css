@@ -1,0 +1,7 @@
+span {
+    border: activeborder;
+}
+
+span:hover {
+    background-color: aliceblue;
+}
